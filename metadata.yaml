@@ -1,0 +1,28 @@
+_repo: Three-Sailor-Boys-or-Adrift-in-the-Pacific_60227
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cameron, Verney Lovett
+    alias: Cameron, V. L. (Verney Lovett)
+    birthdate: 1844
+    deathdate: 1894
+    gutenberg_agent_id: '8072'
+    url: http://www.gutenberg.org/2009/agents/8072
+    wikipedia: https://en.wikipedia.org/wiki/Verney_Lovett_Cameron
+description: ''
+gutenberg_issued: '2019-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Castaways -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sailors -- Juvenile fiction'
+- GITenberg
+title: Three Sailor Boys; or, Adrift in the Pacific
+url: http://www.gutenberg.org/ebooks/60227
