@@ -1,5 +1,8 @@
 _repo: Three-Sailor-Boys-or-Adrift-in-the-Pacific_60227
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60227-h/images/cover.jpg
 creator:
   author:
     agent_name: Cameron, Verney Lovett
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8072
     wikipedia: https://en.wikipedia.org/wiki/Verney_Lovett_Cameron
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60227#Three-Sailor-Boys-or-Adrift-in-the-Pacific
 gutenberg_issued: '2019-09-02'
 gutenberg_type: Text
 identifiers:
